@@ -49,7 +49,6 @@ components = (
 
 
 ```python
-# Exercise 3.2
 from ecc import PrivateKey
 
 class PrivateKey(PrivateKey):
